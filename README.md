@@ -4,7 +4,7 @@
     <img src="src/assets/logo.png" width="130" />
   </a>
   <br />
-  <b>发现导航</b>
+  <b>发现导航 </b>
   <p align="center">一个纯静态、支持SEO、在线编辑的强大导航网站，希望您会喜欢</p>
   <p align="center">内置收录多达 800+ 优质网站， 助您工作、学习和生活</p>
   <p align="center">
